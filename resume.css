@@ -1,0 +1,38 @@
+body {font-family: Arial, sans-serif; margin: 0; background-color: #f5efe6;}
+
+header {text-align: center; background-color: #fffaf3; padding: 15px; border-bottom: 2px solid #e0d6c8;}
+header h1 {color: #5a4633;}
+header p {color: #8a7a66;}
+
+.header-index {display: flex; align-items: center; justify-content: space-between; background-color: #fffaf3; padding: 15px;}
+.profile-img {width: 80px; height: 80px; border-radius: 50%; border: 2px solid #c8a97e; margin-right: 15px;}
+
+nav {margin-left: auto;}
+nav a {text-decoration: none; color: #5a4633; margin-left: 10px;}
+nav a:hover {text-decoration: underline;}
+
+section {padding: 15px; margin: 10px; background-color: #fffaf3; border: 1px solid #e0d6c8;}
+
+h2 {color: #5a4633; border-bottom: 2px solid #d6c3a3;}
+
+img {border-radius: 10px; border: 2px solid #d6c3a3;}
+
+table {width: 100%; border-collapse: collapse;}
+
+th {background-color: #e8dccb; color: #5a4633;}
+td, th {padding: 8px; border: 1px solid #e0d6c8;}
+
+ul {color: #5a4633;}
+
+a {color: #8b6f47;}
+
+input, textarea {width: 100%; padding: 5px; border: 1px solid #d6c3a3; background-color: #fdf6ec;}
+
+button {background-color: #c8a97e; color: white; border: none; padding: 8px 15px; cursor: pointer;}
+button:hover {background-color: #a8895f;}
+
+.container {display: flex; align-items: center; justify-content: space-between;}
+.text {width: 65%;}
+.about-img {width: 150px; border-radius: 10px; border: 2px solid #c8a97e;}
+
+footer {text-align: center; background-color: #fffaf3; padding: 10px; color: #5a4633; border-top: 2px solid #e0d6c8;}
